@@ -1,0 +1,7 @@
+planificador\circular\Planificador.class
+planificador\circular\Main.class
+banco\planificadorprocesos\ListaCircular.class
+banco\planificadorprocesos\Proceso.class
+banco\planificadorprocesos\Nodo.class
+banco\planificadorprocesos\PlanificadorProcesos.class
+planificador\circular\Proceso.class
